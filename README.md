@@ -11,14 +11,14 @@ To get started with this project, follow these steps:
 2. Set up the necessary development environment as specified in the project documentation.
 
 3. Create a new branch for your work using the following command: `git checkout -b <New-Branch-Name>`
-
+Note: please use the name Convention for the feature branches `feature-branch`
 4. Make changes to the code as required and follow the guidelines for code formatting and style.
 
 5. Push your changes to the remote repository using the following command: `git push origin <New-Branch-Name>`
 
 6. Create a pull request to merge your changes into the Work-Branch branch after you have completed your Feature.
 
-7. Don't try to push the changes in to main branch
+7. Don't try to push the changes into main branch
 
 ## Branching Strategy
 
