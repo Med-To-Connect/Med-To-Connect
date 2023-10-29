@@ -30,7 +30,7 @@ All changes to the main branch must go through a code review process. Please ens
 
 ## Issue Tracking
 
-We use the issue tracking system to manage tasks, bugs, and new features. Please refer to the issues tab in this repository to view and manage the current list of tasks.
+We use the issue-tracking system to manage tasks, bugs, and new features. Please refer to the issues tab in this repository to view and manage the current list of tasks.
 
 ## Support and Communication
 
